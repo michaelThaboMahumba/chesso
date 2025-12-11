@@ -5,6 +5,7 @@ Autonomous Chess Agent for Learning
 Chesso is an experimental prototype: an inspectable AI chess tutor that **plays**, **explains**, and **critiques** inside a two-pane interface. The left side displays a chat-driven reasoning feed; the right side is a live chess sandbox. The system is intentionally minimal and built for rapid iteration.
 
 ---
+<p align="center"> <img src="public/chesso.png" width="620" /> </p>
 
 ## Overview
 
